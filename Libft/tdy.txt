@@ -1,0 +1,13 @@
+ft memset
+ft bzero
+ft memcopy
+ft memmove
+ft memchr
+ft memcmp
+ct strlcpy
+ft strlcat
+ft srchr
+ft strrchr
+ft strncmp
+ft strnstr
+ft strdup
